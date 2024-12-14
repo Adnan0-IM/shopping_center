@@ -1,0 +1,25 @@
+{
+  "name": "shopping_center",
+  "version": "2.0.0",
+  "description": "inventory system",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adnan0-IM/shopping_center.git"
+  },
+  "keywords": [
+    "shopping",
+    "order",
+    "buy",
+    "purchase"
+  ],
+  "author": "Adnan iliyasu Muhammad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adnan0-IM/shopping_center/issues"
+  },
+  "homepage": "https://github.com/Adnan0-IM/shopping_center#readme"
+}
